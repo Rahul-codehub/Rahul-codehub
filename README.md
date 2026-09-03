@@ -2,7 +2,7 @@
 
 # Hi, I'm Rahul Kumar 👋
 
-### Full-Stack (MERN) & AI/ML Developer | 3rd-Year CSE Student
+### Full-Stack (MERN) & AI/ML Developer | 4th-Year CSE Student
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rahul-portfolio-sll1.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-kumar75)
@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 3rd-year Computer Science (CSE) student based in Haridwar, Uttarakhand, India
+- 🎓 4th-year Computer Science (CSE) student based in Haridwar, Uttarakhand, India
 - 💻 I build real-world software — AI-powered tools, full-stack web apps, and computer vision systems
 - 🌱 Currently strengthening my skills in Machine Learning, NLP, and the MERN stack
 - 💼 Open to internship opportunities and collaborative projects
